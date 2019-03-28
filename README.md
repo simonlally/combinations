@@ -32,3 +32,7 @@ that denomination to reach our target sum.  The example in the screenshot below 
 [![Screen-Shot-2019-03-28-at-11-31-49-AM.png](https://i.postimg.cc/v8jLRb0j/Screen-Shot-2019-03-28-at-11-31-49-AM.png)](https://postimg.cc/WtGJgLL6)
 
 [![Screen-Shot-2019-03-28-at-11-32-26-AM.png](https://i.postimg.cc/2SmVBKHT/Screen-Shot-2019-03-28-at-11-32-26-AM.png)](https://postimg.cc/Yhnp5bBm)
+
+...
+
+[![Screen-Shot-2019-03-28-at-11-56-17-AM.png](https://i.postimg.cc/vTCGM3BJ/Screen-Shot-2019-03-28-at-11-56-17-AM.png)](https://postimg.cc/FkbMVb0p)
