@@ -2,7 +2,7 @@
 
 ### Requirements: 
 
-This project was built with ruby version 2.4.1, make sure you are running this version before proceeding.
+This project was built with ruby version 2.6.3, make sure you are running this version before proceeding.
 
 This project uses yarn and bundler2.  Make sure you have both before proceeding. 
 Instructions on upgrading to bunder2 may be found here: https://bundler.io/guides/bundler_2_upgrade.html
