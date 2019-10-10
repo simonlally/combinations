@@ -25,10 +25,12 @@ This project uses
 - Vue.js
 - Webpacker
 
-This project was my first time using Rails 5 and Vue.js.  I wanted to create a mini web app instead of a command line app that sends an AJAX request to Rails, where the calculation function lies, with a response of all the combinations.
+This project was my first time using Ruby on Rails and Vue.js.  I wanted to create a mini web app instead of a command line app that sends an AJAX request to Rails, where the calculation function lies, with a response of all the combinations.
 
-The idea behind this project is to output all distinct currency combinations that make up a target value given  the name of each denomination along with the number required of
-that denomination to reach our target sum.  The example in the screenshot below takes in four types of currency: quarters, dimes, nickels and pennies and how the quantity of each denomination that equals the target value of $1.  This input will print all coin combinations equalling up to the $1 target.
+The idea behind this project is to output all distinct currency combinations that make up a target value given the name of each coin along with the number required of
+that coin to reach our target sum ($1.00). The example in the screenshot below takes in four types of currency: quarters, dimes, nickels and pennies and the quantity of each coin equalling the target value of $1.  
+
+Outputting the name of each denomination along with the number required of that denomination to reach our target sum of $1.  
 
 [![Screen-Shot-2019-03-28-at-11-31-49-AM.png](https://i.postimg.cc/v8jLRb0j/Screen-Shot-2019-03-28-at-11-31-49-AM.png)](https://postimg.cc/WtGJgLL6)
 
