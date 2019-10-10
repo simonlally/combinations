@@ -1,8 +1,12 @@
-body {
+.input-form {
   width: 455px;
   padding: 50px;
-  background-color: #66CCFF;
+
   font-family: sans-serif;
+}
+
+body {
+  background-color: #66ccff;
 }
 
 .main input {
@@ -30,7 +34,7 @@ body {
 
 .main li {
   color: #333;
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(255, 255, 255, 0.5);
   padding: 15px;
   margin-bottom: 15px;
   border-radius: 5px;
@@ -51,7 +55,7 @@ tr:nth-child(even) {
 }
 
 tr:nth-child(odd) {
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 th {
@@ -60,4 +64,7 @@ th {
 
 tr {
   text-align: left;
+}
+
+.instructions {
 }
